@@ -1,5 +1,5 @@
 # Ignore config files containing sensitive data
-config.py
+creds.py
 .env
 
 # Ignore __pycache__ and compiled Python files
