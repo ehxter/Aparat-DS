@@ -1,0 +1,3 @@
+# config.py
+FIGMA_TOKEN = "figd_4IAD8mbGwd4jM8F_0StHYd0zlxJLLTxROIkYFNRU"
+FILE_ID = "KTzQW3JVgbusagpi94WySD"
