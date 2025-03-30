@@ -1,6 +1,7 @@
 # Ignore config files containing sensitive data
 creds.py
 .env
+.DS_Store
 
 # Ignore __pycache__ and compiled Python files
 __pycache__/
