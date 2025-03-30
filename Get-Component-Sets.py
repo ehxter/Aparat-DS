@@ -9,9 +9,10 @@ Original file is located at
 
 import requests
 import json
+import config
 
-FIGMA_TOKEN = "figd_4IAD8mbGwd4jM8F_0StHYd0zlxJLLTxROIkYFNRU"
-FILE_ID = "KTzQW3JVgbusagpi94WySD"
+FIGMA_TOKEN = config.FIGMA_TOKEN
+FILE_ID = config.FILE_ID
 
 BASE_URL = f"https://api.figma.com/v1/files/{FILE_ID}"
 HEADERS = {"X-Figma-Token": FIGMA_TOKEN}
