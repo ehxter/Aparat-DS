@@ -1,0 +1,29 @@
+
+/* —————— HTML —————— */
+
+body{
+    background: #FBFBFC;
+    color: #212226;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: flex-start;
+}
+
+div#message-box{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+    padding: 1rem;
+    gap: 1rem;
+}
+
+
+/* —————— Class —————— */
+
+h3{
+    margin: 0;
+}
+
+p{
+    margin: 0;
+}
