@@ -4,7 +4,7 @@ import json
 import creds
 
 FIGMA_TOKEN = creds.FIGMA_TOKEN
-FILE_ID = creds.FILE_ID
+FILE_ID = "KTzQW3JVgbusagpi94WySD"
 
 BASE_URL = f"https://api.figma.com/v1/files/{FILE_ID}"
 HEADERS = {"X-Figma-Token": FIGMA_TOKEN}
